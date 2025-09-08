@@ -1,33 +1,37 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Attending NDSS 2025 in San Diego
+date: 2025-02-24 09:00:00-0700
 inline: false
 related_posts: false
+# tags: [conference, NDSS, USEC, cybersecurity]
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I was excited to attend the **Network and Distributed System Security Symposium (NDSS) 2025** in San Diego, California! 🌴☀️  
 
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The week began with the **USEC 2025 workshop**, which set the stage with engaging discussions on the human factors of security and usable privacy. I enjoyed connecting with researchers who share my passion for bridging the gap between people and technology in security systems.  
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+### Reflections  
+Now that NDSS 2025 has wrapped up, I am reflecting on a truly inspiring experience:  
+- Insightful talks on cutting-edge research in security and privacy.  
+- Conversations with brilliant experts whose work I had long admired from Egypt.  
+- The chance to finally meet and learn from leaders in our field face-to-face.  
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+It was surreal to connect with people whose papers once shaped my own studies, and to now stand alongside them as a PhD student pursuing similar questions.  
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+---
+
+### Gratitude  
+I am grateful for every connection and conversation from this week. Beyond the technical sessions, San Diego’s **sunshine and ocean views** added the perfect backdrop for building new collaborations and friendships.  
+
+Looking forward to building on what I’ve learned and continuing these conversations as my research in **human-centered security and privacy** evolves.  
+
+---
+
+<div style="margin: 1rem 0;">
+  <a class="btn btn-primary" href="https://www.linkedin.com/posts/mohamedmostafadawod_ndsssyposium2025-usec-ndss2025-activity-7302217601231839232-o0L3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFQmcoBLJ38qGoOSyAVBnbdTFJ_37jmCls" target="_blank" rel="noopener">
+    View reflections on LinkedIn
+  </a>
+</div>
